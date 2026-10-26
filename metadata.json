@@ -1,0 +1,6 @@
+{
+  "name": "Debian 13 Cloud Desktop Builder",
+  "description": "Production builder, orchestrator, and interactive simulator for Debian 13 (Trixie) XFCE Cloud Desktop with noVNC, FastAPI gateway, self-healing watchdog, and automated deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
